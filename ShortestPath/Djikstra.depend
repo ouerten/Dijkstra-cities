@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1549824995 source:c:\users\oðuzhan\desktop\okulprojeler\150202068_en_kisa_yol\main.c
+	<stdio.h>
+	<string.h>
+
+1549824995 source:c:\users\oðuzhan\desktop\okulprojeler\dijkstra\kodlar\main.c
+	<stdio.h>
+	<string.h>
+
+1549824995 source:c:\users\oðuzhan\desktop\okulprojeler\dijkstra\main.c
+	<stdio.h>
+	<string.h>
+
